@@ -1,0 +1,22 @@
+spring.profiles.active: dev
+
+spring.jpa.hibernate.ddl-auto: update
+
+ribbon:
+  eureka:
+   enabled: false
+
+spring:
+  application:
+    name: attendees
+
+
+# don't do this in production, we are doing it here so that
+# we can do features of Cloud Foundry without having to explain
+# spring security
+management:
+  security:
+    enabled: false
+  info:
+    git:
+      mode: full

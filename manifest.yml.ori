@@ -1,0 +1,11 @@
+---
+applications:
+- name: attendees-v1
+  memory: 768M
+  instances: 1
+  random-route: true
+  path: target/pcf-ers-demo1-1.0.jar
+#  buildpack: java_buildpack
+  services: []
+  env:
+    SPRING_PROFILES_ACTIVE: cloud

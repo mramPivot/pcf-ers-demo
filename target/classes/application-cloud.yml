@@ -1,0 +1,4 @@
+# TODO: work on the spring boot data.sql loader for PCF
+spring.datasource.initialize: false
+management.cloudfoundry.skip-ssl-validation: true
+

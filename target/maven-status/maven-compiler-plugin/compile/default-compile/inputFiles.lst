@@ -1,0 +1,8 @@
+/Users/mramdani/PCF-Workshops/PCFgettingStarted/pcf-ers-demo/src/main/java/io/pivotal/pcf/sme/ers/client/ui/controller/AttendeeService.java
+/Users/mramdani/PCF-Workshops/PCFgettingStarted/pcf-ers-demo/src/main/java/io/pivotal/pcf/sme/ers/client/model/PagedAttendees.java
+/Users/mramdani/PCF-Workshops/PCFgettingStarted/pcf-ers-demo/src/main/java/io/pivotal/pcf/sme/ers/DummyDataCLR.java
+/Users/mramdani/PCF-Workshops/PCFgettingStarted/pcf-ers-demo/src/main/java/io/pivotal/pcf/sme/ers/client/ui/controller/AttendeeController.java
+/Users/mramdani/PCF-Workshops/PCFgettingStarted/pcf-ers-demo/src/main/java/io/pivotal/pcf/sme/ers/server/model/Attendee.java
+/Users/mramdani/PCF-Workshops/PCFgettingStarted/pcf-ers-demo/src/main/java/io/pivotal/pcf/sme/ers/client/model/Attendee.java
+/Users/mramdani/PCF-Workshops/PCFgettingStarted/pcf-ers-demo/src/main/java/io/pivotal/pcf/sme/ers/server/repo/AttendeeRepository.java
+/Users/mramdani/PCF-Workshops/PCFgettingStarted/pcf-ers-demo/src/main/java/io/pivotal/pcf/sme/ers/PcfErsDemo1Application.java
